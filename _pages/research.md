@@ -26,5 +26,3 @@ ARify helps non-programmers turn narrated instructional videos into spatially an
 **Co-lead author · UIST 2025** · [Paper](https://doi.org/10.1145/3746059.3747676)
 
 agentAR turns natural-language requests into AR applications using an LLM agent and a library of AR authoring tools. The work studies how an agent can plan and assemble applications using combinations of perception modules and AR elements.
-
-For related work, see [Publications](/publications/) and my [CV](/cv/).
